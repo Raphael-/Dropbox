@@ -1,0 +1,1 @@
+For more info check report.pdf (description of the project in Greek)
